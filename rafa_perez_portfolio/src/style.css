@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: rgb(184, 180, 180) darkgray;
+}
+body {
+  background-color: #18181b; /* código do bg-zinc-900 */
+  color: #fafafa; /* texto zinco 50 */
+  height: 200vh;
+}
