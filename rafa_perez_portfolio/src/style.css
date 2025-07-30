@@ -10,3 +10,10 @@ body {
   color: #fafafa; /* texto zinco 50 */
   height: 200vh;
 }
+
+/* Components */
+/* Menu btn */
+.menu-btn {
+  @apply w-10 h10 grid place-items-center bg-zinc-50/10
+rounded-xl ring-inset ring-1;
+}
